@@ -3,4 +3,7 @@
 -ls: Liệt kê tất cả file và thư mục trong thư mục hiện tại
 cách search: terminal command
 #các câu lệnh của git
---git clione https://github.com/quoctruongdev/dev-git.git
+--git clone https://github.com/quoctruongdev/dev-git.git
+-git status
+git commit-m ""
+git push
