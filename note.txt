@@ -1,0 +1,6 @@
+# Một số lệnh sử dụng với terminal
+-cd: Lệnh di chuyển cấp thư mục: Eg: cd Desktop, cd Baitap1
+-ls: Liệt kê tất cả file và thư mục trong thư mục hiện tại
+cách search: terminal command
+#các câu lệnh của git
+--git clione https://github.com/quoctruongdev/dev-git.git
