@@ -6,4 +6,4 @@ cách search: terminal command
 --git clone https://github.com/quoctruongdev/dev-git.git
 -git status
 git commit-m ""
-git push
+git push origin master
